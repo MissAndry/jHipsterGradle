@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "jHipsterGradle",
+    "packageName": "com.toohop.hopdang",
+    "packageFolder": "com/toohop/hopdang",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": true,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "103b68ab6d3fee9e334d73e202fd4d3a2eef7821"
+  }
+}
